@@ -1,15 +1,3 @@
 This is a simple web app called seven samurai.
-It helps user organize their tasks by tagging every task with a suitable samurai.
+It helps user organize their tasks by tagging every task with a suitable samurai task.
 
-
-Adjustment commit
-
-test adjustment pls change
-
-Adjustment 3 - 5 test
-Adjusment 4
-
-
-Test cinco
-
-commititdo
